@@ -5,7 +5,7 @@ This repository serves to document my learnings and projects through my applied 
 
 ## Getting Started
 ### Pre-requisites
-To run this script, intialise a new Conda or use an existing environment to install the required dependencies.
+To run scripts in this rpeo, intialise a new Conda or use an existing environment to install the required dependencies.
 
 ```bash
 # Create and activate new environment
